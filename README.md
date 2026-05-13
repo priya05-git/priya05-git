@@ -16,7 +16,7 @@ Hi I`m Priya Bouri<br>🔭 I’m currently studying at Asansol Engineering colle
   <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 <a href="https://discord.gg/2Rjk4Ze2" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
 # 💻 Tech Stack:
