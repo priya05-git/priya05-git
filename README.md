@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi [] I`m Priya Bouri<br>🔭 I’m currently studying at Asansol Engineering college<br>🌱 I’m currently learning Java<br>💬 Ask me about C, Python, web dev basics<br><br>⚡ Curious mind | lifelong learner | passionate about learning new skills and turning ideas into real project
+Hi I`m Priya Bouri<br>🔭 I’m currently studying at Asansol Engineering college<br>🌱 I’m currently learning Java<br>💬 Ask me about C, Python, web dev basics<br><br>⚡ Curious mind | lifelong learner | passionate about learning new skills and turning ideas into real project
 
 
 ## 🌐 Socials:
