@@ -132,12 +132,6 @@ A featured build from this profile.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=priya05-git&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4" alt="priya05-git heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
 ## 🏆 Beyond the Code
 
 * 🧠 **Profile signal:** 240 contributions in the last year
