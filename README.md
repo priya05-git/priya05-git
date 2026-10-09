@@ -46,7 +46,7 @@ const priya05_git: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=jupyter%2Chtml%2Cpython%2Cjavascript%2Ccss%2Cjava%2Ccpp&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,python,gcp,ejs,nextjs,nodejs,mongodb,mysql,html,js,css,java,powershell&perline=8&theme=dark" alt="Tech Stack" />
 
 <br/><br/>
 
