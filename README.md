@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=priya05-git&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=India&v=readme-reference-2" width="100%" alt="Priya Bouri profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=priya05-git&theme=neon&role=Full-stack%20engineer&location=India&v=readme-reference-2" width="100%" alt="Priya Bouri profile banner" />
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20Jupyter%20Notebook%20%C2%B7%20HTML%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=100&lines=Full-stack%20engineer;Building%20with%20Jupyter%20Notebook%20%C2%B7%20HTML%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80;Engineering%20student%20at%20Asansol%20Engineering%20College;Currently%20learning%20Java;Ask%20me%20about%20C%20%C2%B7%20Python%20%C2%B7%20Web%20Dev%20;CCurious%20mind%20%C2%B7%20Lifelong%20learner%20%C2%B7%20Turning%20ideas%20into%20real%20projects" alt="" /></a>
 
 <br/>
 
