@@ -76,59 +76,17 @@ const priya05_git: Developer = {
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🌌 Featured Projects
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=priya05-git&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-projects-2" alt="Priya Bouri projects visual" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=priya05-git&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-heatmap-3" alt="Priya Bouri heatmap visual" />
+</p>
 
-**Fraud-Detection**
-
-A featured build from this profile.
-
-`C++` · `0 stars`
-
-<a href="https://github.com/priya05-git/Fraud-Detection"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**java-projects**
-
-A featured build from this profile.
-
-`Java` · `0 stars`
-
-<a href="https://github.com/priya05-git/java-projects"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Mini-projects**
-
-Mini project Description
-
-`C` · `0 stars`
-
-<a href="https://github.com/priya05-git/Mini-projects"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**Weather-detection**
-
-A featured build from this profile.
-
-`HTML` · `0 stars`
-
-<a href="https://github.com/priya05-git/Weather-detection"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=priya05-git&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-stats-4" alt="Priya Bouri stats visual" />
+</p>
 <details>
 <summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
 
