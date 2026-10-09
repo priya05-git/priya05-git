@@ -42,6 +42,24 @@ const priya05_git: Developer = {
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/priya-bouri-095b69329" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="mailto:priyabouri47@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=Email" height="50" />
+</a>
+<a href="https://mastodon.social/@Priya Bouri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=MASTODON" height="50" />
+</a>
+<a href="https://www.instagram.com/cutiepriya24?igsh=MTg4eHlvMmZnazZvOA==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+<a href="https://discord.gg/2Rjk4Ze2" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="50" />
+</a>
+
+
 ## ⚔️ Tech Arsenal
 
 <div align="center">
