@@ -79,14 +79,6 @@ const priya05_git: Developer = {
 <p align="center">
 <img src="https://www.gitskins.com/api/section/projects?username=priya05-git&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-projects-2" alt="Priya Bouri projects visual" />
 </p>
-
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=priya05-git&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-heatmap-3" alt="Priya Bouri heatmap visual" />
-</p>
-
-<p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=priya05-git&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-stats-4" alt="Priya Bouri stats visual" />
-</p>
 <details>
 <summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
 
@@ -97,21 +89,16 @@ const priya05_git: Developer = {
 
 </details>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=priya05-git&theme=github-dark&style=jet&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-heatmap-3" alt="Priya Bouri heatmap visual" />
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=priya05-git&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=priya05-git&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=priya05-git&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199501534%3Fu%3D56a2f18b7be72ba57e64c22e5fb0bd90917b3d87%26v%3D4&v=showcase-stats-4" alt="Priya Bouri stats visual" />
+</p>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=priya05-git&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 
 ## 🏆 Beyond the Code
 
