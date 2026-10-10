@@ -27,10 +27,6 @@ const priya05_git: Developer = {
   role:      "Frontend or full-stack engineer",
   location:  "India",
   currently: "building in public",
-  🔭 I’m currently studying at Asansol Engineering college<br>
-  🌱 I’m currently learning Java<br>
-  💬 Ask me about C, Python, web dev basics<br><br>
-  ⚡ Curious mind | lifelong learner | passionate about learning new skills and turning ideas into real project
   stack:     ["Jupyter Notebook", "HTML", "Python", "JavaScript", "CSS", "Java"],
   mantra:    "Make useful things, then make them delightful 🚀",
   
